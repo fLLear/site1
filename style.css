@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+.txt {
+    color: white;
+}
+main {
+    background-color: black;
+}
+img {
+    border: 2px solid white;
+}
